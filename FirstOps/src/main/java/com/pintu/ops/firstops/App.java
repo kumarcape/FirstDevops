@@ -10,6 +10,6 @@ public class App
     {
         System.out.println( "Hello World!" );
         System.out.println("Testing build");
-        System.out.println("Testing build for second time");
+        
     }
 }
